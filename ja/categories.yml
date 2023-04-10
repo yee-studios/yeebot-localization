@@ -1,0 +1,16 @@
+---
+#Category names file
+#This file doesn't use placeholders
+BOT: "Bot"
+CONFIG: "設定"
+DEV: "開発"
+ECONOMY: "経済"
+FUN: "楽しい"
+GAME: "ゲーム"
+MODERATION: "モデレーション"
+ROLEPLAY: "ロールプレイ"
+SEARCH: "検索"
+STAFF: "スタッフ"
+TEST: "テスト"
+USER: "ユーザー"
+UTILS: "Utils"

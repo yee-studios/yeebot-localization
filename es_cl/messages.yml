@@ -1,0 +1,363 @@
+LANGUAGE_NAME: "Chileno"
+LANGUAGE_CODE: "es_cl"
+LANGUAGE_FLAG: "🇨🇱"
+
+CRY: "{0} está llorando :("
+DANCE: "{0} empezó a bailar!"
+FUCK: "{0} se culea {1}"
+FUCK_SELF: "me culeo a {0}"
+HUG: "{0} abraza a {1}"
+HUG_SELF: "Abrazo a {0}"
+KISS: "{0} le da un besito a {1}"
+KISS_SELF: "Le doy un besito a {0}"
+PAT: "{0} apapasha a {1}"
+PAT_SELF: "Apapasho a {0}"
+POKE: "{0} le da un toke a {1}"
+POKE_SELF: "Le doy un toke a {0}"
+SLAP: "{0} le da una cashetá' a {1}"
+SLAP_SELF: "Le doy una cashetá' a {0}"
+TICKLE: "{0} le hace cosquillas a {1}"
+TICKLE_SELF: "Le hago cosquillas a {0}"
+
+COIN_FLIP: "¡Conseguiste {0}!"
+COIN_HEAD: "cara"
+COIN_TAILS: "cruz"
+
+RANDOM_ITEMS: "Los items aleatorios son `number`, `color` y `title`"
+RANDOM_COLOR: "Este es tu color aleatorio"
+RANDOM_ITEM: "Tu {0} aleatorio es {1}"
+
+AVATAR: "Avatar de {0}"
+AFK_SET: "Coloqué tu estado AFK como: {0}"
+AFK_REMOVED: "¡Eliminé tu estado AFK!"
+
+8BALL_ANSWERS: ["sí", "no", "¡obvio!", "obvio que no"]
+8BALL_DOUBTS: ["probablemente", "capáh", "no sé", "¿vo' decí?"]
+8BALL_QUESTION: "{0} pregunta..."
+
+IQ: "{0} tiene {1} de IQ"
+IQ_SELF: "Tení' {0} de IQ"
+
+ROLL: "{0} obtuvo {1} punto(s)"
+OK: ["ok", "ta bien", "apruebo", ":ok_hand:"]
+LIKE: ["like", "laik", "me gusta", ":thumbsup:"]
+
+NO_COINS: "¡No tení' moneah! Usa {0} pa' comenzá' a trabajar."
+COINS: "{0} tiene {1} moneah"
+COINS_SELF: "Tení' {0} moneah"
+
+WORKING: "Trabajando..."
+WORK_WAIT: "Necesitai esperar pa' volver a trabajar."
+WORKED: "Trabajaste y ganaste {0} moneita'."
+WORK_MESSAGES: [
+	"Ayudaste a Bruno con su bot y te 'ió {0} moneíta'",
+	"Paseaste al perro de alguien y te 'ió {0} moneíta'"
+]
+
+PLEASE_WAIT: "Perate un poko porfa..."
+
+LANGUAGE_LIST: "Lista de idiomas: {0}"
+NO_LANGUAGE_SET: "Lenguaje no establecido"
+CURRENT_LANGUAGE: "El lenguaje actual es {0}"
+CHANGE_LANGUAGE: "Podí' cambiar tu lenguaje usando {0}"
+LANGUAGE_SET: "Lenguaje establecí'o a {0}"
+
+INSULTS: [
+	"te odio",
+	":middle_finger:",
+	"no perkin qliao",
+	"andate a la mierda",
+	"marikon",
+	"blokiao",
+	"puta el maricon gei",
+	"aweonao",
+	"weon",
+	"tu ya no eri weon, eri aweonao",
+	"chupame la pixula"
+]
+
+NO_USER_FOUND_BY: "No se encontró un usuario pa' {0}"
+ADMINS_ON: "Administradores en {0}"
+ADMINS_COUNT: "Administradores ({0})"
+BOTS_COUNT: "Bots ({0})"
+
+BIO_SET: "Establecí tu biografía a {0}"
+BIO_VIEW: "Podés verla usando {0}"
+
+HUMANS_BOTS_TOTAL_MEMBERS: "Miembros humanos/bots/totales"
+TEXT_VOICE_TOTAL_CHANNELS: "Canales de texto/voz/totales"
+
+MESSAGES_UPDATE: "Los mensajes se actualizan cada minuto"
+
+MESSAGES_SENT_GUILD: "{0} envió {1} mensajes en este server"
+MESSAGES_SENT_GUILD_SELF: "{0}, enviaste {1} mensajes en este server"
+
+XD_SENT: "{0} envió {1} XD en {2} mensajes, eso es el {3}"
+XD_SENT_SELF: "{0}, enviaste {1} XD en {2} mensajes, eso es el {3}"
+
+OSU_PROFILE: "perfil de osu!"
+DAYS_AGO: "hace {0} días"
+
+DESCRIPTION_TEXT: Un bot simple con utilidades, comandos de diversión, roleplay, economía, búsqueda, moderación y administración.
+DESCRIPTION_PREFIX: Mi prefix actual es {0}.
+DESCRIPTION_COMMANDS: Usa {0} pa' ver mis comandos.
+DESCRIPTION_CATEGORIES: Tengo {0} categorias de comandos.
+DESCRIPTION_CATEGORY_COMMANDS: Podés usar {0} pa' ver los comandos de una categoría.
+DESCRIPTION_LANGUAGE: Podí' usar {0} pa' cambiar el lenguaje.
+
+REACT_CHANGE_LANGUAGE: "Podí' reaccionar con {0} pa' cambiar el lenguaje rápidamente."
+
+ERROR_TRY_SEARCHING_LATER: "¡Huo un error! ¿Intenta buscando ma' tarde?"
+ERROR: "¡Algo salió mal!"
+ERROR_REPORTED: "Esto se reportó a los desarrolladores."
+
+CANT_SEND_MESSAGES: "No puedo enviar mensajes"
+CANT_SEND_MESSAGES_DESCRIPTION: "Necesito el permiso pa' enviar mensajes en {0}"
+
+CANT_CREATE_EMOJI: "No pude crear el emoji"
+CANT_CREATE_EMOJI_DESCRIPTION: "Probablemente el archí'o e muy grande."
+
+FEEDBACK_TITLE: "Respuesta a tu feedback"
+FEEDBACK_YOUR: "Tu feedback"
+FEEDBACK_RESPONSE: "Respuesta del desarrollaor"
+FEEDBACK_FOOTER: "¡Gracias por tu feedback!"
+
+ACHIEVEMENT_GET: "¡Logro conseguido!"
+SERVER_COMMAND: "¡No podí' ejecutar comandos de servidor en mensajes directos!"
+
+BANNED: "He baneao a {0}"
+BANNED_REASON: "He baneao a {0} por {1}"
+COULD_NOT_BAN: "No pude banear a {0}: {1}"
+
+KICKED: "Kickee a {0}"
+KICKED_REASON: "Kickee a {0} por {1}"
+COULD_NOT_KICK: "No pude kickear a {0}: {1}"
+
+MUTED: "Silencié a {0}"
+MUTED_REASON: "Silencié a {0} por {1}"
+COULD_NOT_MUTE: "No pude silenciar a {0}: {1}"
+
+UNMUTE: "Desilencié a {0}"
+COULD_NOT_UNMUTE: "No pude desilenciar a {0}: {1}"
+MEMBER_NOT_MUTED: "El miembro no ta silenciao aweonao"
+
+VIDEO_TOO_LARGE: "El video e muy largo (probablemente más que el límite de 8MB pa los bots de Discord)"
+CANT_SEND_VIDEO: "No pue enviar el video"
+
+CATEGORY_COMMAND: "Comandos de {0}" # EXAMPLE USAGE: "Moderation commands"
+
+COMMANDS_FOR: "Comandos pa' {0}"
+NO_COMMANDS_FOR: "No hay comandos pa' {0}"
+NO_COMMAND_FOUND_BY: "No se encontró un comando pa' {0}"
+NO_ALIASES_FOR: "No hay aliases pa' {0}"
+
+CREATED_BY: "Creado por {0}"
+CONTRIBUTORS: "Contribuidores"
+SPECIAL_THANKS: "Gracias especiales"
+THANKS_FOR_USING: "¡Gracias por usar {0}!"
+
+FEEDBACK_WAIT: "¡Tení' que espear ante de enviar comentarios de nuevo!"
+FEEDBACK_SHORT: "Intenta enriquecer tu mensaje con la mayor cantida de información posible, ¡así los desarrollaores pueden entenderlo!"
+FEEDBACK_SENT: "¡Tu mensaje se envió a los desarrollaores!"
+
+NUKE_CONFIRM: "¿Estai bien seguro de que queri' destruir {0}?"
+NUKE_EXPLAIN: "Va a eliminar el canal y crear uno nuevo."
+NUKE_SUCCESS: "¡Este canal se destruió!"
+NUKE_ERROR: "Hubo un error al intentár borrar el mensaje."
+
+TEXT_TOO_LONG: "¡El texto es muy largo!"
+TEXT_TOO_SHORT: "¡El texto es muy corto!"
+CANT_SPLIT_TEXT: "No se puede separar el mensaje"
+
+NO_CHANNEL: "No hay canal"
+
+REACT_NEW_MEME: "Reaccioná con {0} pa tener un nuevo meme"
+
+COOLDOWN_CURRENT: "El enfriamiento actual de {0} es de {1}"
+COOLDOWN_CHANGE: "Podí' cambiarlo usando {0}"
+COOLDOWN_CHANGED: "El cooldown de este canal ha sido establecio a {0}"
+
+DID_YOU_MEAN: "¿Queri' decir {0}?"
+REMOVED_AFK: "Bienvenio de vuelta {0}, eliminé tu estao AFK"
+
+NO_HELP_FOUND_FOR: "No se encontró ayuda pa' {0}"
+
+SEARCHING: "Buscando..."
+DOWNLOAD_IS_THE_VIDEO: "¿Es este el video que quieres? {0}"
+DOWNLOAD_TYPE_NAME: "Escribe el nombre del video que querí' buscar."
+REQUESTED_VIDEO_TOO_LARGE: "El video solicitado es muy grande"
+DOWNLOAD_FORMAT_SELECT: "¿Queri' descargarlo en {0} o en {1}?"
+DOWNLOAD_FORMAT_SPECIFY: "Necesitai especificar si queri' descargarlo en **audio** o **video**."
+DOWNLOAD_REQUESTED_LARGE_ABORTED: "La descarga solicitada es **mayor a 8MB ({0}MB)**. Los bots de Discord solo pueden enviar un **máximo de 8MB**!"
+DOWNLOAD_YIELDED: "¡La descarga se pausó!"
+DOWNLOAD_ABORTED: "Descarga abortada."
+DOWNLOAD_STARTING: "Comenzando la descarga..."
+DOWNLOAD_CURRENT: "Descarga actual: {0}"
+DOWNLOADED_IN: "Descargado en {0}"
+SENDING: "Enviando..."
+DOWNLOAD_SENT: "Enviado en {0}"
+
+HEY_MENTION_AFK: "¡Hey {0}! {1} está AFK"
+COMMAND_DISABLED: "Lo siento, este comando está deshabilitado! (Probablemente porque no funciona correctamente)"
+COOLDOWN_WAIT: "Necesitás esperar {0} segundos antes de usar un comando nuevamente."
+
+AMOUNT_TOO_LARGE: "Cantidad muy grande"
+DELETING_MESSAGES: "Borrando {0} mensajes..."
+COULD_NOT_FIND_MESSAGES: "No pude encontrar mensajes."
+
+WEATHER_FOR: "Clima pa' {0}"
+GETTING_WEATHER_FOR: "Obteniendo el clima pa' {0}..."
+COULD_NOT_GET_WEATHER_FOR: "No se pudo obtener el clima pa' {0}"
+
+PREFIX_GUILD: "El prefijo de este server es {0}"
+PREFIX_CHANGE: "Podí' cambiar el prefix usando {0}"
+PREFIX_RESET: "O reiniciarlo usando {0}"
+PREFIX_SET_DEFAULT_VALUE: "Prefix establecido al valor por defecto"
+PREFIX_TOO_LARGE: "El prefix es muy largo, tiene que tener menos de 4 caracteres"
+PREFIX_SETTING: "Estableciendo prefix..."
+PREFIX_SET: "Prefix establecido a {0}"
+
+NO_PERMISSIONS_BOT: "¡No tengo los permisos necesarios!"
+NO_PERMISSIONS_USER: "¡No tenés los permisos necesarios!"
+
+NO_RESULTS_FOUND: "No se han encontrado resultados"
+DEFINITION_OF: "Definición de {0}"
+SENT_BY: "Enviado por {0}"
+
+EMOJI_LIST_FOR: "Lista de emojis de {0} ({1})"
+EMOJI_AREADY_EXISTS: "Ya existe un emoji con el nombre de {0}"
+NO_EMOJI_FOUND_BY: "No se ha encontrado ningún emoji con el nombre de {0}"
+EMOJI_ADDED: "Emoji añadido: {0}"
+EMOJI_REMOVED: "Emoji removido: {0}"
+
+GUESS_GUESS: "¡Bien! Adivina un número entre {0} y {1}"
+GUESS_NOT_NUMBER: "¡Oops, eso no es un número!"
+GUESS_NUMBER_GREATER: "¡El número es mayor a eso!"
+GUESS_NUMBER_LOWER: "¡El número es menor que eso!"
+GUESS_RESULTS: "Resultados de la adivinanza"
+GUESS_SUCCESS: "¡Eso es todo! Estás en camino de convertirte en un campeón de advinador de números"
+
+ALREADY_PLAYING: "¡Ya estás jugando!"
+DELETING_MESSAGES_IN: "Borrando los mensajes en {0} segundos..."
+
+BOT_IS_ON_SERVERS: "¡{0} está en {1} servidores!"
+INVITE_THE_BOT: "Invita al bot"
+SUPPORT_SERVER: "Servidor de soporte"
+TOPGG_PAGE: "Página de top.gg"
+BOT_WEBPAGE: "Página web del bot"
+COMING_SOON: "¡Próximamente!"
+CLICK_TO_BOT_INVITE: "Clic pa' ir a la página de invitación del bot"
+CLICK_TO_SERVER_INVITE: "Clic pa' ir a la página de invitación del server"
+CLICK_TO_TOPGG_PAGE: "Clic pa' ir a la página de top.gg del bot"
+
+LETS_START: "¡Empecemos!"
+LETTER_ON_WORD: "¡Esa letra está en la palabra!"
+LETTER_NOT_ON_WORD: "¡Esa letra no está en la palabra!"
+YOU_WON: "¡Ganaste!"
+YOU_LOST: "¡Perdiste!"
+
+HANGMAN_REQUEST: "¡Wena' po'! {0} está solicitando que elijas una palabra pa' jugar el juego del ahorcado. Por favor escribe la palabra que querés elegir."
+HELLO_TYPE_WORD: "¡Hola! Escribe la palabra que queri' elegir"
+CANT_MESSAGE_USER: "No se pudo mensajear al usuario"
+WAITING_FOR_USER_RESPONSE: "Esperando a la respuesta del usuario..."
+
+WORD_TOO_LONG: "¡Aweonao, la palabra es muy larga!"
+WORD_TOO_SHORT: "¡Aweonao, la palabra es muy corta!"
+WORD_CONTAINS_WEIRD_CHARACTERS: "¡Aweonao, la palabra contiene caracteres raros!"
+WORD_CHOSEN: "¡Palabra elegí'a!"
+USER_DID_NOT_CHOOSE_WORD: "El usuario no escogió una palabra"
+
+CANT_CALCULATE_DECIMAL_NUMBERS: "¡No se pueden calcular números decimales!"
+IS_PRIME: "¡{0} es primo!"
+IS_NOT_PRIME: "¡{0} no es primo!"
+IT_IS_DIVISIBLE_BY: "Es divisible por {0}"
+PRIME_POSITION: "Es el {0} primo"
+NOT_PRIME_BY_DEFINITION: "¡No es primo por definición!"
+PRIME_BY_DEFINITION: "¡Es primo por definición!"
+CALCULATED_IN: "Calculado en {0}"
+
+VOICECHAT_NOT_SAME: "No estoy en el mismo canal que tu"
+VOICE_CHAT_CANT_CONNECT: "¡No me pude conectar a la wea' de voz!"
+VOICECHAT_DISCONNECTED: "¡Me desconecté de la wea' de voz!"
+VOICECHAT_LEFT_EVERYONE_DISCONNECTED: "Abandoné la weá' porque todos se fueron po'"
+
+STARTED_READING_MESSAGES: "¡Voa leer cada mensaje de este canal en {0}!"
+STARTED_READING_MESSAGES_PREFIX: "¡Voy a leer cada mensaje de este canal que empiece con {0} en {1}!"
+STOPPED_READING_MESSAGES: "Dejé de leer mensajes"
+ALREADY_READING_MESSAGES: "¡Ya estoy leyendo mensajes!"
+NO_MESSAGES_RECEIVED_FOR: "No recibí mensajes por {0}"
+
+SAYS: "{0} dice: {1}"
+SNIPES_NOT_ENABLED_SERVER: "¡Los snipes no están activaos en este servidor!"
+SNIPES_ON: "Snipes en {0}"
+GOT_NO_MESSAGES: "No obtuve mensajes"
+SHOWING_ON_PAGE: "Mostrando {0} en la página {1}"
+
+VOTED: "Votaste"
+NOT_VOTED: "No votaste todavía"
+VOTE: "Podés votar haciendo click {0}"
+VOTE_THANKS: "¡Gracias por votar!"
+VOTE_PRIVILEGIES: "Tení' acceso a estos privilegios"
+
+CANT_CONNECT_TO_SERVER_OR_IT_IS_OFFLINE: "No se puede conectar con el servidor o está fuera de linea"
+
+WARNED: "¡{0} ha sido advertido!"
+WARN_NUMBER_FOR: "Advertencia {0} para {1}"
+WARN_LAST_FOR: "Última advertencia de {0}"
+NO_WARNS: "¡No hay advertencias!"
+NO_WARNS_DESCRIPTION: "{0} es un buen chico"
+WARNS_NUMBER_FOR: "Últimas {0} advertencias de {1}"
+WARNS_LAST_FOR: "Últimas advertencias de {0}"
+
+NO_BADWORDS_SET: "¡No hay malas palabras puestas!"
+BADWORD_ADDED: "¡Se ha agregado {0} a la lista de malas palabras!"
+BADWORD_REMOVED: "¡Se ha quitado {0} de la lista de malas palabras!"
+DISABLE_YEE: "Usa {0} para cambiar los ajustes de yee"
+
+PERMISSIONS_FOR: "Permisos para {0}"
+STATS_FOR: "Estadísticas para {0}"
+ROBLOX_PROFILE_FOR: "Perfil de Roblox de {0}"
+
+GETTING_FREE_GAMES: "Obteniendo juegos gratuitos..."
+OFFER_ENDS_IN: "¡La oferta termina en {0}!"
+HYPIXEL_DATA_NOT_SUCCEED: "No tuve éxito en obtener estadísticas de Hypixel para el jugador"
+HYPIXEL_COULD_NOT_GET_DATA: "No se pudo obtener las estadísticas de Hypixel para el jugador"
+COULD_NOT_GET_TIMEZONE_FOR: "No pude obtener una zona horaria para {0}"
+TIME_FOR: "Tiempo para {0}"
+COULD_NOT_GET_UUID: "No se pudo obtener el UUID para el jugador {0}"
+
+OPTION_SET_TO_VALUE: "{0} establecido a {1}"
+DONE_NOTHING_CHANGED: "¡Todo hecho, nada cambió!"
+NOT_VALID_LANGAUGE: "Lenguaje inválido"
+NO_OPTION_FOUND_BY: "No se ha encontrado una opción para {0}"
+
+MEMES_CURRENTLY_SENDING_TO: "Actualmente estoy enviando memes a {0} cada {1}"
+MEMES_CHANGE_CHANNEL: "Si querí' cambiar el canal, podés usar {0}"
+MEMES_CURRENTLY_NOT_SENDING: "Actualmente no estoy enviando memes"
+MEMES_SET_CHANNEL: "Si querí' que envíe memes a un canal, podés usar {0}"
+MEMES_STOPPED_SENDING_TO: "Ya no enviaré memes a {0}"
+MEMES_NOT_SENDING: "¡No estoy enviando memes!"
+MEMES_ALREADY_SENDING_TO: "¡Ya estoy enviando memes a ese canal!"
+MEMES_STARTED_SENDING_TO: "Ahora enviaré memes a {0} cada {1}"
+MEMES_STOP_SENDING: "Si querí' que deje de enviar memes, podí' usar {0}"
+
+CHANNEL_ALREADY_LOCKED: "¡Ya está bloqueao!"
+CHANNEL_LOCKED_ANNOUNCEMENT: "¡Este canal ha sido bloqueao!"
+CHANNEL_LOCKED: "¡{0} bloqueao!"
+
+CHANNEL_ALREADY_UNLOCKED: "¡Ya está desbloqueao!"
+CHANNEL_UNLOCKED_ANNOUNCEMENT: "¡Este canal ha sido desbloqueao!"
+CHANNEL_UNLOCKED: "¡{0} desbloqueao!"
+
+WOKE_UP_TIME_AGO: "Me desperté hace como {0}"
+THIS_COMMAND_FAILED_TO_LOAD: "¡Este comando falló al cargar!"
+
+CANT_CREATE_WEBHOOKS: "¡No puedo crear webhooks!"
+COULD_NOT_CREATE_WEBHOOK: "¡No pude crear la webhook!"
+
+EXECUTE_COMMAND_HELP: "Escribe {0} para ejecutar un comando"
+EXECUTE_COMMAND_HELP_PARAMETERS: "Escribe los parámetros del comando seguido de su nombre"
+
+USE_TO_LEARN_MORE: "Usa {0} pa' saer más"
+AUDIOWORDS_DESCRIPTION: "Estas son palabras que el bot dice en voz alta cuando lee mensajes"
+AUDIOWORDS_USAGE: "Usa {0} pa' ver cada palabra de audio en esa categoría"

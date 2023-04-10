@@ -1,0 +1,16 @@
+---
+#Category names file
+#This file doesn't use placeholders
+BOT: "Bot"
+CONFIG: "Конфигурация"
+DEV: "Развитие"
+ECONOMY: "Экономика"
+FUN: "Веселье"
+GAME: "Игра"
+MODERATION: "Модерирование"
+ROLEPLAY: "Ролепплей"
+SEARCH: "Искать"
+STAFF: "Персонал"
+TEST: "Тест"
+USER: "Пользователь"
+UTILS: "Utils"

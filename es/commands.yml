@@ -1,0 +1,199 @@
+# Command names file
+# This file doesn't use placeholders
+
+# Bot commands
+
+ABOUT: "sobre"
+ALIASES: "aliases"
+COMMANDS: "comandos"
+DAILY: "diario"
+DISCONNECT: "desconectar"
+FEEDBACK: "retroalimentación"
+HELP: "ayuda"
+INVITE: "invitar"
+JOIN: "unirse"
+ORIGIN: "origen"
+PING: "latencia"
+STATS: "estadísticas"
+UPTIME: "tiempoActivo"
+VOTE: "votar"
+
+# Config commands
+
+AUTOROLE: "autorol"
+CHANNEL: "canal"
+MESSAGE: "mensaje"
+PREFIX: "prefijo"
+SENDMEMES: "enviar_memes"
+SETTINGS: "ajustes"
+TOGGLEYEE: "alternar_yee"
+
+# Dev commands
+
+ALARM: "alarma"
+ANIME: "anime"
+BLACKLIST: "lista_negra"
+CHAT: "chat"
+DECRYPT: "desencriptar"
+DEV: "desarrollador"
+DJS: "djs"
+ENCRYPT: "encriptar"
+ERROR: "error"
+EVALUATE: "evaluar"
+EXECUTE: "ejecutar"
+INSTAGRAM: "instagram"
+INSTALL: "instalar"
+MAIL: "correo"
+MANAGE: "administrar"
+NAMEMC_OLD: "namemc_viejo"
+NEKOSLIFE: "vida_de_gatos"
+PERSON: "persona"
+PLAY: "reproducir"
+RECENT: "reciente"
+RELOAD: "recargar"
+SEEK: "adelantar"
+SHARDS: "fragmentos"
+TOGGLECOMMAND: "alternar_comando"
+UNINSTALL: "desinstalar"
+
+# Economy commands
+
+COINS: "monedas"
+SHOP: "tienda"
+WORK: "trabajar"
+
+# Fun commands
+
+8BALL: "bola8"
+ACHIEVEMENT: "logro"
+CLASSIC8BALL: "bola8clásico"
+DSAY: "ddecir"
+FACT: "hecho"
+GUESS: "adivinar"
+HANGMAN: "ahorcado"
+INSULT: "insultar"
+IQ: "IQ"
+LIKE: "gustar"
+NICEMEME: "buen_meme"
+OK: "ok"
+OWOIFY: "owoificar"
+ROLL: "tirarDado"
+WELCOME: "bienvenido"
+
+# Game commands
+
+OSU: "osu"
+OSUCALC: "osucalc"
+OSUSET: "osuset"
+
+# Moderation commands
+
+BAN: "ban"
+COOLDOWN: "enfriamiento"
+KICK: "expulsar"
+PURGE: "borrar"
+RESETWARNS: "reiniciar_advertencias"
+UNBAN: "unban"
+WARN: "advertir"
+WARNS: "advertencias"
+
+# Roleplay commands
+
+CRY: "llorar"
+DANCE: "bailar"
+FUCK: "follar"
+HUG: "abrazar"
+KISS: "besar"
+PAT: "acariciar"
+SLAP: "bofetear"
+TICKLE: "cosquillear"
+
+# Search commands
+
+DUOLINGO: "duolingo"
+EPICGAMES: "epicgames"
+GELBOORU: "bolaDeGel"
+HYPIXEL: "hypixel"
+IMAGE: "imagen"
+INVITEINFO: "información_invitación"
+JAPANESE: "japonés"
+MEME: "meme"
+MINECRAFT: "minecraft"
+MINECRAFTSERVER: "servidor_minecraft"
+MINECRAFTUSER: "usuario_minecraft"
+ROMAJIDESU: "romajidesu"
+SEARCH: "buscar"
+SNIPE: "snipe"
+THUMBNAIL: "miniatura"
+TIME: "hora"
+TRANSLATOR: "traductor"
+TTS: "textoAVoz"
+URBAN: "urbano"
+VIRUS: "virus"
+WEATHER: "clima"
+WIKI: "wiki"
+WORDREFERENCE: "palabra_referencia"
+
+# Staff commands
+
+BADWORDS: "malas_palabras"
+EMOJI: "emoji"
+NUKE: "destruir"
+ROLES: "roles"
+SAY: "decir"
+
+# Test commands
+
+DELETEMUTEROLE: "eliminar_rol_mute"
+DOWNLOAD: "descargar"
+HIRAGANA: "hiragana"
+MUTE: "silenciar"
+ROLEPREFIX: "rol_prefijo"
+SKIP: "omitir"
+STOP: "detener"
+UNMUTE: "desilenciar"
+VOLUME: "volumen"
+
+# User commands
+
+ACTIVITY: "actividad"
+ADMINS: "administradores"
+AFK: "ausente"
+AVATAR: "avatar"
+BIO: "biografía"
+INVENTORY: "inventario"
+LANGUAGE: "lenguaje"
+LEVEL: "nivel"
+MESSAGES: "mensajes"
+OWNER: "dueño"
+PERMISSIONS: "permisos"
+SERVERINFO: "información_server"
+TOP: "top"
+USER: "usuario"
+
+# Utils commands
+
+ASCII: "ascii"
+BEAUTIFIER: "embellecer"
+BINARY: "binario"
+BLUR: "difuminar"
+COINFLIP: "lanzar_moneda"
+DISTORT: "distorsionar"
+EMOJIFY: "emojificar"
+INTENSIFY: "intensificar"
+JUMBO: "agrandar"
+LENGTH: "longitud"
+LIST: "lista"
+MATH: "matemática"
+MORSECODE: "código_morse"
+OBFUSCATOR: "ofuscar"
+PRIME: "primo"
+RANDOM: "aleatorio"
+READ: "leer"
+RESIZE: "cambiar_tamaño"
+REVERSE: "invertir"
+SHUFFLE: "barajar"
+SPOILER: "spoiler"
+TEXT: "texto"
+TEXTWALL: "pared_texto"
+WITHIN: "entre"
