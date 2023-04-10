@@ -1,7 +1,3 @@
----
-#Category names file
-#This file doesn't use placeholders
-BOT: "Bot"
 CONFIG: "Configurazione"
 DEV: "Sviluppo"
 ECONOMY: "Economia"
@@ -13,4 +9,3 @@ SEARCH: "Cerca"
 STAFF: "Personale"
 TEST: "Prova"
 USER: "Utente"
-UTILS: "Utils"
