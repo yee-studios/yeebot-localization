@@ -1,5 +1,0 @@
--d: "No borra el mensaje"
--r: "Remplaza las letras por indicadores regionales (ej.) :regional_indicator_t:​:regional_indicator_e:​:regional_indicator_x:​:regional_indicator_t::regional_indicator_o:"
--s: "No borra los espacios entre las letras (usado en conjunto con `-r`) (ej.) :regional_indicator_t: :regional_indicator_e: :regional_indicator_x: :regional_indicator_t: :regional_indicator_o:"
--b: "Obliga a que la respuesta sea booleana"
--alone: "Juega solo"
