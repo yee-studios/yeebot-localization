@@ -1,0 +1,15 @@
+#Category names file
+#This file doesn't use placeholders
+BOT: "Bot"
+CONFIG: "配置"
+DEV: "贸易和发展会议"
+ECONOMY: "四. 经济"
+FUN: "有趣的"
+GAME: "游戏"
+MODERATION: "审核"
+ROLEPLAY: "角色播放"
+SEARCH: "搜索"
+STAFF: "工作人员"
+TEST: "测试"
+USER: "用户"
+UTILS: "Utils"
