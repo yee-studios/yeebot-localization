@@ -1,0 +1,15 @@
+#Category names file
+#This file doesn't use placeholders
+BOT: "Bot"
+CONFIG: "Configuração"
+DEV: "Desenvolvimento"
+ECONOMY: "Economia"
+FUN: "Diversão"
+GAME: "Partida"
+MODERATION: "Moderação"
+ROLEPLAY: "Função"
+SEARCH: "Pesquisa"
+STAFF: "Funcionários"
+TEST: "teste"
+USER: "Usuário"
+UTILS: "Utils"
